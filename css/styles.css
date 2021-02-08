@@ -5,6 +5,10 @@ img{
   position: relative;
   left: 50px;
   }
+	.iig{
+		max-width: 30%;
+    border-radius: 100%;
+	}
 /*ul{
 	list-style-type: none;
 	margin: 0;
@@ -31,5 +35,10 @@ h1{
 }
 .img{
 	background-color: pink;
-	
 }
+.row{
+	margin:0}
+	.mis{
+		max-width: 70%;
+		position:inherit;
+	}
